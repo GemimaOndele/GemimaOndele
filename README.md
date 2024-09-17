@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GemimaOndele
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning html;css;php;cisco;linux;java.
+- 🌱 I’m currently learning javascript,python,php;cisco;linux;java.
 - 💞️ I’m looking to collaborate on developpers
 - 📫 How to reach me : gemima.ondelepourou@edu.ece.fr
 - I’m a beginner and a learner with git and github.
