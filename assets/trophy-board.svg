@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <text x="600" y="60" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="44" font-weight="700">Trophy Dashboard</text>
+  <text x="600" y="96" text-anchor="middle" fill="#bfdbfe" font-family="Segoe UI, Arial" font-size="20">Professional achievements and impact areas</text>
+
+  <g transform="translate(170 130)">
+    <rect width="180" height="170" rx="16" fill="#111827" stroke="#3b82f6"/>
+    <text x="90" y="72" text-anchor="middle" fill="#fbbf24" font-size="54">🏆</text>
+    <text x="90" y="118" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="18">AI Projects</text>
+  </g>
+
+  <g transform="translate(390 130)">
+    <rect width="180" height="170" rx="16" fill="#111827" stroke="#3b82f6"/>
+    <text x="90" y="72" text-anchor="middle" fill="#fbbf24" font-size="54">🥇</text>
+    <text x="90" y="118" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="18">Data Quality</text>
+  </g>
+
+  <g transform="translate(610 130)">
+    <rect width="180" height="170" rx="16" fill="#111827" stroke="#3b82f6"/>
+    <text x="90" y="72" text-anchor="middle" fill="#fbbf24" font-size="54">⭐</text>
+    <text x="90" y="118" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="18">DevOps Delivery</text>
+  </g>
+
+  <g transform="translate(830 130)">
+    <rect width="180" height="170" rx="16" fill="#111827" stroke="#3b82f6"/>
+    <text x="90" y="72" text-anchor="middle" fill="#fbbf24" font-size="54">🛡️</text>
+    <text x="90" y="118" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Arial" font-size="18">Cybersecurity</text>
+  </g>
+</svg>
