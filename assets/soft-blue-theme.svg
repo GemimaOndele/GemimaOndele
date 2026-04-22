@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e2a44"/>
+      <stop offset="45%" stop-color="#3a4f78"/>
+      <stop offset="100%" stop-color="#5b7898"/>
+    </linearGradient>
+    <radialGradient id="softGlow" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0%" stop-color="#93a8c7" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#93a8c7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="700" rx="26" fill="url(#bg)"/>
+  <circle cx="250" cy="130" r="220" fill="url(#softGlow)">
+    <animate attributeName="cx" values="250;300;250" dur="12s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1320" cy="520" r="260" fill="url(#softGlow)">
+    <animate attributeName="cx" values="1320;1260;1320" dur="16s" repeatCount="indefinite" />
+  </circle>
+  <path d="M0,430 C240,390 380,510 620,470 C860,430 980,350 1240,390 C1380,410 1500,450 1600,430 L1600,700 L0,700 Z" fill="#24334f" fill-opacity="0.42">
+    <animate attributeName="d" values="M0,430 C240,390 380,510 620,470 C860,430 980,350 1240,390 C1380,410 1500,450 1600,430 L1600,700 L0,700 Z;M0,420 C220,470 400,360 620,410 C840,460 1020,390 1240,420 C1380,440 1500,410 1600,420 L1600,700 L0,700 Z;M0,430 C240,390 380,510 620,470 C860,430 980,350 1240,390 C1380,410 1500,450 1600,430 L1600,700 L0,700 Z" dur="18s" repeatCount="indefinite" />
+  </path>
+  <text x="800" y="120" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI, Arial" font-size="54" font-weight="700">Soft Blue AI Theme</text>
+  <text x="800" y="165" text-anchor="middle" fill="#dbe4f2" font-family="Segoe UI, Arial" font-size="24">Subtle color palette • Calm motion • Professional visual identity</text>
+  <text x="250" y="260" font-size="44">✨<animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="3.2s" repeatCount="indefinite"/></text>
+  <text x="520" y="240" font-size="42">🤖<animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="2.8s" repeatCount="indefinite"/></text>
+  <text x="780" y="250" font-size="40">🧠<animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="3.0s" repeatCount="indefinite"/></text>
+  <text x="1040" y="240" font-size="42">📊<animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="3.4s" repeatCount="indefinite"/></text>
+  <text x="1320" y="260" font-size="44">🚀<animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="3.1s" repeatCount="indefinite"/></text>
+</svg>
