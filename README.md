@@ -1,14 +1,10 @@
-<div align="center">
+# Gemima Ondele • Data & AI Engineer
 
-# Gemima Ondele • Data and AI Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+%26+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Bilingual+AI+Projects+in+French+%26+English;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2400&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn" alt="header" />
-
-<img src="https://media.giphy.com/media/So7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AI robot animation banner" />
-
-</div>
+![AI robot](https://media.giphy.com/media/So7aD2saalBwwftBIY/giphy.gif)
 
 ## About me
 
@@ -17,11 +13,20 @@
 - 🌍 Open to AI and Data opportunities in Ile-de-France
 - 🚀 Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
 
+## Premium experience (Live demos)
+
+These advanced features are available on my live portfolio (interactive runtime):
+
+- 🤖 AI chatbot assistant (French and English)
+- 🗣️ Voice interaction and conversational behavior
+- 🎞️ Animated project visuals
+- 📊 Project storytelling and categorized navigation
+
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Open-000000?style=for-the-badge&logo=vercel)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
+
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,docker,postgresql,git,githubactions,linux" alt="tech stack" />
-</p>
+![skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,docker,postgresql,git,githubactions,linux)
 
 ## Featured projects
 
@@ -39,16 +44,17 @@
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Search-1E40AF?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+cybersecurity&type=repositories)
 [![NLP](https://img.shields.io/badge/NLP-Search-0EA5E9?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+NLP&type=repositories)
 
-## GitHub dashboard
+## Dashboard
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+| Stats | Streak |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true) |
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
+| Top languages | Trophies |
+|---|---|
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true) | ![trophy](https://github-profile-trophy.vercel.app/?username=GemimaOndele&theme=algolia&no-bg=true&no-frame=true&row=2&column=3) |
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GemimaOndele&theme=github-compact&hide_border=true)
 
 ## Connect
 
@@ -56,6 +62,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gemima%20Ondele-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gemima-ondele-pourou-1515251a7)
 [![GitHub](https://img.shields.io/badge/GitHub-GemimaOndele-181717?style=for-the-badge&logo=github)](https://github.com/GemimaOndele)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GemimaOndele&label=Profile%20views&color=3b82f6&style=flat" alt="profile views" />
-</div>
+![views](https://komarev.com/ghpvc/?username=GemimaOndele&label=Profile%20views&color=3b82f6&style=flat)
