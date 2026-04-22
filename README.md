@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,35:1d4ed8,100:38bdf8&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontColor=ffffff&fontSize=28&animation=fadeIn" alt="header" />
 <br/>
-<img src="https://raw.githubusercontent.com/GemimaOndele/portfolio/master/docs/floating-emojis.svg" alt="3D styled floating emojis banner" />
+<img src="https://raw.githubusercontent.com/GemimaOndele/portfolio/master/docs/floating-emojis.svg?v=2" alt="3D styled floating emojis banner" />
 
 </div>
 
