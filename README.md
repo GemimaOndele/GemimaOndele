@@ -1,20 +1,20 @@
 <div align="center">
 
-# Gemima Ondele • Data & AI Engineer
+# Gemima Ondele • Data and AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2400&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+%26+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2400&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20%26%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn" alt="header" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QxY3Qybm21d4c1aue6rnh41vins32pb46ltw7xxmZec1v1_gifs_search&ct=g/So7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AI robot animation banner" />
+<img src="https://media.giphy.com/media/So7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AI robot animation banner" />
 
 </div>
 
 ## About me
 
 - 🎓 MSc 1 Artificial Intelligence - International English (ECE Paris)
-- 💼 Apprentie ingénieure outils et méthodes dans la Data & l'IA (Alternance)
-- 🌍 Open to AI/Data opportunities in Ile-de-France
+- 💼 Apprentie ingénieure outils et méthodes dans la Data et l'IA (Alternance)
+- 🌍 Open to AI and Data opportunities in Ile-de-France
 - 🚀 Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
 
 ## Tech stack
@@ -32,8 +32,6 @@
 - 🤖 **Louvre Chatbot:** conversational AI connected to SQL data and web integration.
 
 ## Project filters
-
-Use these quick filters to browse my repositories by category:
 
 [![AI](https://img.shields.io/badge/AI-Search-3B82F6?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+AI&type=repositories)
 [![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Search-1D4ED8?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+%22data+engineering%22&type=repositories)
