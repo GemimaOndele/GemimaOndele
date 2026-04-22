@@ -85,7 +85,7 @@
 [![Projet POO JAVA](https://img.shields.io/badge/Projet%20POO%20JAVA-Repository-3b82f6?style=for-the-badge)](https://github.com/GemimaOndele/Projet-POO-JAVA)
 [![Jeu](https://img.shields.io/badge/Jeu-Repository-0f172a?style=for-the-badge)](https://github.com/GemimaOndele/Jeu)
 
-## 🔷 KPI dashboard (expanded)
+## 🔷 KPI dashboard 
 
 | 📊 Core Stats | 🔥 Streak |
 |---|---|
