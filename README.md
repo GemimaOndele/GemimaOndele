@@ -1,30 +1,24 @@
-<div align="center">
-
 # Gemima Ondele • Data and AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Bilingual+AI+Projects+in+French+and+English;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Bilingual+AI+Projects+in+French+and+English;Building+reliable+AI+and+Data+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn)
 
-![theme](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:111827,40:1e3a8a,100:0ea5e9&text=Robot%20AI%20Theme%20%F0%9F%A4%96%20%E2%80%A2%20Animated%20Experience%20%F0%9F%9A%80&fontColor=ffffff&fontSize=28&animation=blinking)
+![AI robot dance](https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/ai-robot-dance.svg)
 
-</div>
+## Live AI experience
+
+[![AI Chatbot FR and EN](https://img.shields.io/badge/AI%20Chatbot-FR%20and%20EN-0EA5E9?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
+[![Voice Interaction](https://img.shields.io/badge/Voice-Interaction-2563EB?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
+[![Animated Visuals](https://img.shields.io/badge/Animated-Project%20Visuals-1D4ED8?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
+[![Storytelling Navigation](https://img.shields.io/badge/Storytelling-Categorized%20Navigation-1E40AF?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
 
 ## About me
 
 - MSc 1 Artificial Intelligence - International English (ECE Paris)
-- Apprentie ingenieure outils et methodes dans la Data et l'IA (Alternance)
+- Apprentie ingénieure outils et méthodes dans la Data et l'IA (Alternance)
 - Open to AI and Data opportunities in Ile-de-France
 - Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
-
-## Premium AI experience
-
-- 🤖 AI chatbot assistant (French and English)
-- 🗣️ Voice interaction and conversational behavior
-- 🎞️ Animated project visuals
-- 📊 Project storytelling and categorized navigation
-
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Open-000000?style=for-the-badge&logo=vercel)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
 
 ## Tech stack
 
@@ -32,11 +26,11 @@
 
 ## Featured projects
 
-- GreenDC Audit Platform (Green IT): PUE/DCiE/CO2 calculation, explainable AI recommendations, before/after simulation.
-- IT Ticketing Platform (DevOps): Docker, Docker Compose, Jenkins, CI/CD, backend/frontend/infrastructure orchestration.
-- 2ASICYA Smart Grid Cybersecurity: pandapower scenarios S1-S5, cyber-physical risk analysis, dashboard and digital twin style visualization.
-- HealthPredict AI: healthcare prediction workflow with data preparation, modeling and Streamlit insights.
-- Louvre Chatbot: conversational AI connected to SQL data and web integration.
+- **GreenDC Audit Platform (Green IT):** PUE/DCiE/CO2 calculation, explainable AI recommendations, before/after simulation.
+- **IT Ticketing Platform (DevOps):** Docker, Docker Compose, Jenkins, CI/CD, backend/frontend/infrastructure orchestration.
+- **2ASICYA Smart Grid Cybersecurity:** pandapower scenarios S1-S5, cyber-physical risk analysis, dashboard and digital twin style visualization.
+- **HealthPredict AI:** healthcare prediction workflow with data preparation, modeling and Streamlit insights.
+- **Louvre Chatbot:** conversational AI connected to SQL data and web integration.
 
 ## Project filters
 
@@ -48,14 +42,16 @@
 
 ## Dashboard
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true)
+
+### Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=GemimaOndele&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GemimaOndele&theme=github-compact&hide_border=true)
 
 ## Connect
 
