@@ -6,14 +6,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,35:1d4ed8,100:38bdf8&section=header&text=Gemima%20AI%20Universe&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="header" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QxY3QybW4yMWQ0YzF6dWU2cm5oNDF2aW53MzJwYjQ2bDd0N3h4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AI robot animated banner" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QxY3Qybm21d4c1aue6rnh41vins32pb46ltw7xxmZec1v1_gifs_search&ct=g/So7aD2saalBwwftBIY/giphy.gif" width="100%" alt="AI robot animated banner" />
 
 </div>
 
 ## About Me
 
 - 🎓 MSc 1 Artificial Intelligence - International English (ECE Paris)
-- 💼 Apprentie ingénieure outils et méthodes dans la Data & l'IA (Alternance)
+- 🧪 Apprentie ingénieure outils et méthodes dans la Data & l'IA (Alternance)
 - 🌍 Open to AI/Data opportunities (Ile-de-France)
 - 🚀 Focus: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
 
@@ -52,7 +52,7 @@ Use these quick filters to browse my repositories by category:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
-## Connect with Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gemima%20Ondele-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gemima-ondele-pourou-1515251a7)
