@@ -6,7 +6,7 @@
 
 | AI Robot Motion | Live Portfolio Preview |
 |---|---|
-| ![AI robot dance](https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/ai-robot-dance.svg) | [![Portfolio preview](https://image.thum.io/get/width/900/noanimate/https://portfolio-two-pi-2dbrxmib7a.vercel.app)](https://portfolio-two-pi-2dbrxmib7a.vercel.app) |
+| [![AI robot dance](https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/ai-robot-dance.svg)](https://portfolio-two-pi-2dbrxmib7a.vercel.app) | [![Portfolio preview](https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/portfolio-preview.svg)](https://portfolio-two-pi-2dbrxmib7a.vercel.app) |
 
 ## Live AI experience
 
@@ -15,17 +15,11 @@
 [![Animated Visuals](https://img.shields.io/badge/Animated-Project%20Visuals-1D4ED8?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
 [![Storytelling Navigation](https://img.shields.io/badge/Storytelling-Categorized%20Navigation-1E40AF?style=for-the-badge)](https://portfolio-two-pi-2dbrxmib7a.vercel.app)
 
-## About me
-
-- MSc 1 Artificial Intelligence - International English (ECE Paris)
-- Apprentie ingénieure outils et méthodes dans la Data et l'IA (Alternance)
-- Open to AI and Data opportunities in Ile-de-France
-- Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
-
 ## Core stack and tools
 
-![skills](https://skillicons.dev/icons?i=python,r,c,java,js,ts,react,angular,nodejs,spring,streamlit,docker,postgresql,git,githubactions,linux)
+![skills](https://skillicons.dev/icons?i=python,r,c,java,js,ts,react,angular,nodejs,spring,docker,postgresql,git,githubactions,linux)
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn)](#)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1f2937?style=for-the-badge&logo=tensorflow)](#)
 [![GenAI](https://img.shields.io/badge/GenAI-0f172a?style=for-the-badge)](#)
@@ -42,13 +36,24 @@
 - **HealthPredict AI:** healthcare prediction workflow with data preparation, modeling and Streamlit insights.
 - **Louvre Chatbot:** conversational AI connected to SQL data and web integration.
 
-## Project filters
+## Sector filters
 
-[![AI](https://img.shields.io/badge/AI-Search-3B82F6?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+AI&type=repositories)
-[![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Search-1D4ED8?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+%22data+engineering%22&type=repositories)
-[![DevOps](https://img.shields.io/badge/DevOps-Search-2563EB?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+DevOps&type=repositories)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Search-1E40AF?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+cybersecurity&type=repositories)
-[![NLP](https://img.shields.io/badge/NLP-Search-0EA5E9?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+NLP&type=repositories)
+[![Energy](https://img.shields.io/badge/Sector-Energy-2563EB?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+energy&type=repositories)
+[![Green IT](https://img.shields.io/badge/Sector-Green%20IT-0EA5E9?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+green+it&type=repositories)
+[![Cybersecurity](https://img.shields.io/badge/Sector-Cybersecurity-1E40AF?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+cybersecurity&type=repositories)
+[![IT Service Management](https://img.shields.io/badge/Sector-ITSM-1D4ED8?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+ticketing+devops&type=repositories)
+[![Healthcare](https://img.shields.io/badge/Sector-Healthcare-3B82F6?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+health&type=repositories)
+[![Culture and Education](https://img.shields.io/badge/Sector-Culture%20and%20Education-0F172A?style=for-the-badge)](https://github.com/search?q=user%3AGemimaOndele+louvre+chatbot&type=repositories)
+
+## Project to sector mapping
+
+| Project | Main sector | Tech focus |
+|---|---|---|
+| GreenDC Audit Platform | Energy and Green IT | AI explainability, optimization, environmental analytics |
+| IT Ticketing Platform | IT Service Management | DevOps, CI/CD, Docker, backend/frontend |
+| 2ASICYA Smart Grid | Energy and Cybersecurity | Risk analytics, simulation, digital twin |
+| HealthPredict AI | Healthcare | Machine Learning, data prep, Streamlit |
+| Louvre Chatbot | Culture and Education | NLP, SQL, conversational AI |
 
 ## Dashboard
 
@@ -59,7 +64,7 @@
 
 ### Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GemimaOndele&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
+![trophy board](https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/trophy-board.svg)
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GemimaOndele&theme=github-compact&hide_border=true)
 
