@@ -1,21 +1,23 @@
-# Gemima Ondele • Data & AI Engineer
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+%26+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Bilingual+AI+Projects+in+French+%26+English;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
+# Gemima Ondele • Data and AI Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1100&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;Bilingual+AI+Projects+in+French+and+English;Building+reliable+AI%2FData+solutions+for+real+business+impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8&section=header&text=AI%20Data%20Universe&fontColor=ffffff&fontSize=31&animation=fadeIn)
 
-![AI robot](https://media.giphy.com/media/So7aD2saalBwwftBIY/giphy.gif)
+![theme](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:111827,40:1e3a8a,100:0ea5e9&text=Robot%20AI%20Theme%20%F0%9F%A4%96%20%E2%80%A2%20Animated%20Experience%20%F0%9F%9A%80&fontColor=ffffff&fontSize=28&animation=blinking)
+
+</div>
 
 ## About me
 
-- 🎓 MSc 1 Artificial Intelligence - International English (ECE Paris)
-- 💼 Apprentie ingénieure outils et méthodes dans la Data et l'IA (Alternance)
-- 🌍 Open to AI and Data opportunities in Ile-de-France
-- 🚀 Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
+- MSc 1 Artificial Intelligence - International English (ECE Paris)
+- Apprentie ingenieure outils et methodes dans la Data et l'IA (Alternance)
+- Open to AI and Data opportunities in Ile-de-France
+- Focus areas: AI Engineering, Data Engineering, MLOps, ETL/ELT, Automation
 
-## Premium experience (Live demos)
-
-These advanced features are available on my live portfolio (interactive runtime):
+## Premium AI experience
 
 - 🤖 AI chatbot assistant (French and English)
 - 🗣️ Voice interaction and conversational behavior
@@ -30,11 +32,11 @@ These advanced features are available on my live portfolio (interactive runtime)
 
 ## Featured projects
 
-- 🌱 **GreenDC Audit Platform (Green IT):** PUE/DCiE/CO2 calculation, explainable AI recommendations, before/after simulation.
-- 🛠️ **IT Ticketing Platform (DevOps):** Docker, Docker Compose, Jenkins, CI/CD, backend/frontend/infrastructure orchestration.
-- ⚡ **2ASICYA Smart Grid Cybersecurity:** pandapower scenarios S1-S5, cyber-physical risk analysis, dashboard and digital twin style visualization.
-- 🧠 **HealthPredict AI:** healthcare prediction workflow with data preparation, modeling and Streamlit insights.
-- 🤖 **Louvre Chatbot:** conversational AI connected to SQL data and web integration.
+- GreenDC Audit Platform (Green IT): PUE/DCiE/CO2 calculation, explainable AI recommendations, before/after simulation.
+- IT Ticketing Platform (DevOps): Docker, Docker Compose, Jenkins, CI/CD, backend/frontend/infrastructure orchestration.
+- 2ASICYA Smart Grid Cybersecurity: pandapower scenarios S1-S5, cyber-physical risk analysis, dashboard and digital twin style visualization.
+- HealthPredict AI: healthcare prediction workflow with data preparation, modeling and Streamlit insights.
+- Louvre Chatbot: conversational AI connected to SQL data and web integration.
 
 ## Project filters
 
@@ -46,15 +48,14 @@ These advanced features are available on my live portfolio (interactive runtime)
 
 ## Dashboard
 
-| Stats | Streak |
-|---|---|
-| ![stats](https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true) |
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GemimaOndele&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GemimaOndele&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
 
-| Top languages | Trophies |
-|---|---|
-| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true) | ![trophy](https://github-profile-trophy.vercel.app/?username=GemimaOndele&theme=algolia&no-bg=true&no-frame=true&row=2&column=3) |
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GemimaOndele&theme=github-compact&hide_border=true)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemimaOndele&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
 
 ## Connect
 
