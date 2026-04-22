@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2300&pause=900&color=3B82F6&center=true&vCenter=true&width=1250&lines=Data+and+AI+Engineer+%7C+MSc+Artificial+Intelligence;ETL%2FELT+%7C+Automation+%7C+MLOps+%7C+Data+Visualization;French+and+English+AI+Projects+with+Business+Impact)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img src="https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/soft-blue-theme.svg" alt="Soft Blue Theme" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/GemimaOndele/GemimaOndele/main/assets/ai-robot-dance.svg" alt="AI Robot Banner" width="100%"/>
 
 | AI Robot Motion | Live Portfolio Preview |
